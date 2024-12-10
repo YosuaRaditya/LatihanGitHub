@@ -1,0 +1,3 @@
+git clone https://URL
+cd .\LatihanGitHub\
+HALOOOOO
